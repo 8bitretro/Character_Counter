@@ -1,0 +1,1 @@
+Counts all characters in the string including special characters and spaces.
